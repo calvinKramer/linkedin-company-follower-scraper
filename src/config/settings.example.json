@@ -1,0 +1,8 @@
+{
+  "proxy": {
+    "useApifyProxy": true,
+    "groups": ["RESIDENTIAL"]
+  },
+  "resultsLimit": 10,
+  "resultsType": "company"
+}
