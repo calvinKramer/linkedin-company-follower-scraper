@@ -1,0 +1,24 @@
+[
+  {
+    "companyUrl": "https://www.linkedin.com/company/example-corp/",
+    "postId": "12345",
+    "postContent": "Exciting new opportunities at Example Corp!",
+    "author": "Jane Doe",
+    "publicationDate": "2025-11-12T12:30:00Z",
+    "likes": 150,
+    "comments": 35,
+    "shares": 10,
+    "followers": [
+      {
+        "followerName": "John Smith",
+        "followerProfile": "https://www.linkedin.com/in/john-smith",
+        "engagement": "liked"
+      },
+      {
+        "followerName": "Alice Johnson",
+        "followerProfile": "https://www.linkedin.com/in/alice-johnson",
+        "engagement": "commented"
+      }
+    ]
+  }
+]
