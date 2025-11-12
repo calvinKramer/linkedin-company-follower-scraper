@@ -1,0 +1,3 @@
+# Sample input file for LinkedIn scraper.
+# Provide LinkedIn company URLs to scrape.
+https://www.linkedin.com/company/example-corp/
